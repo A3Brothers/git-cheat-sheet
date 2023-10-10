@@ -20,6 +20,7 @@ Welcome to the "Git Gold Mine," your comprehensive guide to mastering Git, the v
    - [`git stash`](#git-stash): Temporarily save and manage changes.
    - [`git clean`](#git-clean): Remove untracked files and directories.
    - [`git reset`](#git-reset): Reset changes in the working directory and/or index.
+   - [`git revert`](#git-revert): Reverse a previous commit's changes by creating a new commit that undoes it, preserving the commit history.
 
 4. **History and Log:**
    - [`git log`](#git-log): View commit history.
