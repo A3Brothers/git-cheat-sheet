@@ -1662,4 +1662,6 @@ ___
 
 >**Congratulations** on completing this _Git_ cheat sheet! You've acquired a solid foundation in Git essentials. Remember, Git offers a world of advanced options and flags. For specific cases, explore [Git's official documentation](https://git-scm.com/doc) and community resources. Your journey to Git mastery is just beginning—happy coding!
 
+>Found this helpful? Let's connect on LinkedIn: [linkedin.com/in/a3brothers](https://www.linkedin.com/in/a3brothers/)
+
 ---
